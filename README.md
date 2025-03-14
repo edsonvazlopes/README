@@ -2,7 +2,7 @@
 
 **`Doutorando em Engenharia Elétrica | Professor de Engenharia de Software e Robótica`**
 
-Sou doutorando em Engenharia Elétrica pela Universidade do Estado de Santa Catarina com ênfase em engenharia biomédica (UDESC), sou professor de Engenharia de Software e Robótica. Sou Graduado em Licenciatura em Física e Mestre em Ensino de Ciências, Matemática e Tecnologias, também pela UDESC. Na graduação, sob orientação, desenvolvi trabalhos na área de ensino e na área da computação quântica. No mestrado, dediquei-me a robótica educacional e programação. Além disso, sou produtor musical, compositor, multi-instrumentista, cantor e engenheiro de mixagem e masterização. Já fui mecâmico, vendedor, agricultor, marceneiro, etc. 
+Sou doutorando em Engenharia Elétrica pela Universidade do Estado de Santa Catarina com ênfase em engenharia biomédica (UDESC), sou professor de Engenharia de Software e Robótica. Sou Graduado em Licenciatura em Física e Mestre em Ensino de Ciências, Matemática e Tecnologias, também pela UDESC. Na graduação, sob orientação, desenvolvi trabalhos na área de ensino e na área da computação quântica. No mestrado, dediquei-me a robótica educacional e programação. Além disso, sou produtor musical, compositor, multi-instrumentista, cantor e engenheiro de mixagem e masterização. Já fui mecânico, vendedor, agricultor, marceneiro, etc. 
 
 📚 Ensino por investigação e alfabetização científica  
 🔬 Robótica Educacional e Engenharia Biomédica  
@@ -15,7 +15,7 @@ Sou doutorando em Engenharia Elétrica pela Universidade do Estado de Santa Cata
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsonvazlopes/)
 [![YouTube](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_-uuuZbY0AAt9CViNzvc-Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@som_e_ciencia_e_tecnologia?sub_confirmation=1)
-[![TikTok](https://img.shields.io/badge/TikTok-%2399F1B6?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@prof_edson_vaz_lopes)
+[![TikTok](https://img.shields.io/badge/TikTok-%2300FFFF?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@prof_edson_vaz_lopes)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edson_vaz_lopes/)
 
 </p>
@@ -86,17 +86,13 @@ Sou doutorando em Engenharia Elétrica pela Universidade do Estado de Santa Cata
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=edsonvazlopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonvazlopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
