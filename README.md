@@ -2,26 +2,129 @@
 
 **`Doutorando em Engenharia Elétrica | Professor de Engenharia de Software e Robótica`**
 
-Sou doutorando em Engenharia Elétrica pela Universidade do Estado de Santa Catarina com ênfase em engenharia biomédica (UDESC), sou professor de Engenharia de Software e Robótica...
+Sou doutorando em Engenharia Elétrica pela Universidade do Estado de Santa Catarina com ênfase em engenharia biomédica (UDESC), sou professor de Engenharia de Software e Robótica. Sou Graduado em Licenciatura em Física e Mestre em Ensino de Ciências, Matemática e Tecnologias, também pela UDESC. Na graduação, sob orientação, desenvolvi trabalhos na área de ensino e na área da computação quântica. No mestrado, dediquei-me a robótica educacional e programação. Além disso, sou produtor musical, compositor, multi-instrumentista, cantor e engenheiro de mixagem e masterização. Já fui mecâmico, vendedor, agricultor, marceneiro, etc. 
+
+📚 Ensino por investigação e alfabetização científica  
+🔬 Robótica Educacional e Engenharia Biomédica  
+🖥️ Desenvolvimento com C, Python, Fortran e App Inventor  
+📄 Escrevo documentos acadêmicos com **LaTeX**  
 
 ---
 
-## Links para redes sociais
+<p align="center" style="font-family: Arial, sans-serif; font-size: 16px;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsonvazlopes/)
-[![YouTube](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_-uuuZbY0AAt9CViNzvc-Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@som_e_ciencia_e_tecnologia?sub_confirmation=1)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edson_vaz_lopes/)
+    <a href="https://www.linkedin.com/in/edsonvazlopes/">
+        <img 
+            alt="LinkedIn"
+            title="Conecte-se comigo no LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.youtube.com/@som_e_ciencia_e_tecnologia?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_-uuuZbY0AAt9CViNzvc-Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+
+    <a href="https://www.tiktok.com/@prof_edson_vaz_lopes">
+        <img 
+            alt="TikTok"
+            title="Siga-me no TikTok"
+            src="https://img.shields.io/badge/TikTok-%2399F1B6?style=for-the-badge&logo=tiktok&logoColor=white"
+        />
+    </a>
+
+    <a href="https://www.instagram.com/edson_vaz_lopes/">
+        <img 
+            alt="Instagram"
+            title="Siga-me no Instagram"
+            src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    
+</p>
 
 ---
 
-## Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
-![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C"
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Arduino"
+    title="Arduino"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Raspberry Pi"
+    title="Raspberry Pi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" 
+/>
 
----
+<br/>
+<br/>
 
-## Estatísticas
+### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsonvazlopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=edsonvazlopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonvazlopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
