@@ -8,7 +8,6 @@ Olá! Eu sou o Edson, e sou especializado em várias linguagens de programação
 - **JavaScript**
 - **HTML/CSS**
 - **Arduino**
-- **Shell Script**
 
 Eu também trabalho com tecnologias de redes neurais, aprendizado de máquina e robótica educacional.
 
