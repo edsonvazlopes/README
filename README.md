@@ -11,39 +11,13 @@ Sou doutorando em Engenharia Elétrica pela Universidade do Estado de Santa Cata
 
 ---
 
-<p align="center" style="font-family: Arial, sans-serif; font-size: 16px;">
+<p align="center">
 
-    <a href="https://www.linkedin.com/in/edsonvazlopes/">
-        <img 
-            alt="LinkedIn"
-            title="Conecte-se comigo no LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://www.youtube.com/@som_e_ciencia_e_tecnologia?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_-uuuZbY0AAt9CViNzvc-Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsonvazlopes/)
+[![YouTube](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_-uuuZbY0AAt9CViNzvc-Q?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)](https://www.youtube.com/@som_e_ciencia_e_tecnologia?sub_confirmation=1)
+[![TikTok](https://img.shields.io/badge/TikTok-%2399F1B6?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@prof_edson_vaz_lopes)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edson_vaz_lopes/)
 
-    <a href="https://www.tiktok.com/@prof_edson_vaz_lopes">
-        <img 
-            alt="TikTok"
-            title="Siga-me no TikTok"
-            src="https://img.shields.io/badge/TikTok-%2399F1B6?style=for-the-badge&logo=tiktok&logoColor=white"
-        />
-    </a>
-
-    <a href="https://www.instagram.com/edson_vaz_lopes/">
-        <img 
-            alt="Instagram"
-            title="Siga-me no Instagram"
-            src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    
 </p>
 
 ---
