@@ -1,16 +1,45 @@
-# Sobre mim
+Sou doutorando em Engenharia Elétrica pela Universidade do Estado de Santa Catarina com ênfase em engenharia biomédica (UDESC), sou professor de Engenharia de Software e Robótica. Sou Graduado em Licenciatura em Física e Mestre em Ensino de Ciências, Matemática e Tecnologias, também pela UDESC. Na graduação, sob orientação, desenvolvi trabalhos na área de ensino e na área da computação quântica. No mestrado, dediquei-me a robótica educacional e programação. Além disso, sou produtor musical, compositor, multi-instrumentista, cantor e engenheiro de mixagem e masterização. Já fui mecâmico, vendedor, agricultor, marceneiro, etc. 
+ 
 
-Olá! Eu sou o Edson, e sou especializado em várias linguagens de programação, incluindo:
+📚 Ensino por investigação e alfabetização científica  
+🔬 Robótica Educacional e Engenharia Biomédica  
+🖥️ Desenvolvimento com C, Python, Fortran e App Inventor  
+📄 Escrevo documentos acadêmicos com **LaTeX**  
 
-- **C**
-- **Python**
-- **Fortran**
-- **JavaScript**
-- **HTML/CSS**
-- **Arduino**
+---
 
-Eu também trabalho com tecnologias de redes neurais, aprendizado de máquina e robótica educacional.
+### 🚀 Tecnologias & Ferramentas  
 
-Atualmente doutorando em Engenharia Elétrica pela Universidade do Estado de Santa Catarina com ênfase em engenharia biomédica (UDESC), Edson Vaz Lopes atua como professor de Física na rede pública estadual e como professor de programação e robótica em instituições privadas. Ele concluiu sua Graduação em Licenciatura em Física em 2018 pela UDESC e o Mestrado Profissional em Ensino de Ciências, Matemática e Tecnologias em 2022, também pela UDESC. Durante a graduação, participou por cerca de dois anos do Programa Institucional de Bolsa de Iniciação à Docência (PIBID), onde desenvolveu pesquisas na área do ensino de Física, com ênfase no ensino por investigação e na alfabetização científica. Além disso, foi bolsista de iniciação científica PROBIC/UDESC, sob a orientação do professor Edgard Pacheco Moreira Amorim, pesquisando o tema "Informação e computação quântica: Aplicações da caminhada aleatória quântica". No mestrado, sob a orientação do professor Dr. Alex Bellucco do Carmo, Edson se dedicou à linha de pesquisa "Ensino de Ciências, Matemática e Tecnologias - Práticas Educativas e Processos de Aprendizagem no Ensino de Ciências, Matemática e Tecnologias". Sua pesquisa focou na alfabetização científica e no ensino por investigação, articulando essas duas abordagens no contexto da robótica educacional.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Fortran" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="LaTeX" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg">
+</div>
 
-Além de sua atuação acadêmica, Edson Vaz é produtor musical, compositor, multi-instrumentista, cantor e engenheiro de mixagem e masterização. Anteriormente, trabalhou como mecânico industrial, e possui habilidades em computação, com ênfase em sistemas operacionais Linux e Windows.
+---
+
+### 🌎 Conecte-se comigo  
+
+<div> 
+  <a href="https://www.linkedin.com/in/edsonvazlopes" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:edsonvazlopes@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/edsonvazlopes">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+    <a href="https://www.instagram.com/edson_vaz_lopes/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.tiktok.com/@prof_edson_vaz_lopes" target="_blank">
+    <img src="https://img.shields.io/badge/-TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+</div>
