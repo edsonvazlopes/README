@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Edson Vaz Lopes
+# Edson Vaz Lopes
 
 **`Doutorando em Engenharia Elétrica | Professor de Engenharia de Software e Robótica`**
 
@@ -6,7 +6,7 @@ Sou doutorando em Engenharia Elétrica pela Universidade do Estado de Santa Cata
 
 📚 Ensino por investigação e alfabetização científica  
 🔬 Robótica Educacional e Engenharia Biomédica  
-🖥️ Desenvolvimento com C, Python, Fortran e App Inventor  
+🖥️ Desenvolvimento com C, Python, Arduino, Raspberry Pi, Fortran e App Inventor  
 📄 Escrevo documentos acadêmicos com **LaTeX**  
 
 ---
